@@ -1,21 +1,54 @@
-# Koke Design（侘び寂び Webデザイン ガイドライン）
+# Koke Design (Wabi-sabi Web Design Guidelines)
 
-## 🌱 プロジェクト概要
-Koke Designは、日本独自の美学「侘び寂び（Wabi-sabi）」をWebデザインに取り入れるためのオープンソースプロジェクトです。  
-世界中のデザイナーや開発者が日本の美意識をウェブ上で表現できるよう、具体的なデザイン原則や事例をまとめています。
+## Project Overview
 
-## 🎯 プロジェクトの目的
-- 日本の侘び寂びをウェブデザインの世界に普及させる
-- 侘び寂びの本質をデザイン原則として体系化する
-- グローバルに共有可能なデザインリソースを提供する
+Koke Design is an open-source project dedicated to integrating the traditional Japanese aesthetic known as "Wabi-sabi" into web design. Our aim is to compile concrete design principles and examples that enable designers and developers around the world to express Japanese beauty online.
 
-## 📖 主な内容
-- **デザインガイドライン**
-  - 色彩・タイポグラフィ・レイアウト・空間設計などのルールを定義
-- **具体的なデザイン事例（Examples）**
-  - Webページのサンプル、コンポーネント、テンプレートの提供
-- **関連リソース**
-  - デザインに役立つ参考文献や外部リンクの提供
+## Objectives
 
-## 🚀 始め方・使い方
-1. 本リポジトリをクローンしてください。
+* To promote Japanese Wabi-sabi aesthetics within the web design community.
+* To systematically articulate Wabi-sabi principles into practical design guidelines.
+* To offer globally accessible design resources inspired by Japanese aesthetics.
+
+## Contents
+
+* **Design Guidelines**
+
+  * Detailed rules for colors, typography, layout, and spatial design.
+* **Design Examples**
+
+  * Sample web pages, components, and templates demonstrating Wabi-sabi principles.
+* **Additional Resources**
+
+  * Useful references and external links for further exploration of Wabi-sabi design.
+
+## Getting Started
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/[your-username]/koke-design.git
+   ```
+2. Utilize the provided design guidelines and examples in your own projects.
+3. If you have suggestions or improvements, please open an Issue to participate.
+
+## How to Contribute
+
+This project welcomes contributions and is open-source.
+
+Ways to contribute:
+
+* Report typos, mistakes, or bugs.
+* Propose improvements to the guidelines.
+* Share your own design examples that embody Wabi-sabi.
+
+Feel free to create an Issue or submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Maintainer
+
+* Takeshi Kanno
+* [koke.design](https://koke.design) (Coming soon)
