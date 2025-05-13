@@ -1,16 +1,21 @@
-## Hi there 👋
+# Koke Design（侘び寂び Webデザイン ガイドライン）
 
-<!--
-**koke-design/koke-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 プロジェクト概要
+Koke Designは、日本独自の美学「侘び寂び（Wabi-sabi）」をWebデザインに取り入れるためのオープンソースプロジェクトです。  
+世界中のデザイナーや開発者が日本の美意識をウェブ上で表現できるよう、具体的なデザイン原則や事例をまとめています。
 
-Here are some ideas to get you started:
+## 🎯 プロジェクトの目的
+- 日本の侘び寂びをウェブデザインの世界に普及させる
+- 侘び寂びの本質をデザイン原則として体系化する
+- グローバルに共有可能なデザインリソースを提供する
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 主な内容
+- **デザインガイドライン**
+  - 色彩・タイポグラフィ・レイアウト・空間設計などのルールを定義
+- **具体的なデザイン事例（Examples）**
+  - Webページのサンプル、コンポーネント、テンプレートの提供
+- **関連リソース**
+  - デザインに役立つ参考文献や外部リンクの提供
+
+## 🚀 始め方・使い方
+1. 本リポジトリをクローンしてください。
