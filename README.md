@@ -14,7 +14,7 @@ Koke Design is an open-source project dedicated to integrating the traditional J
 
 * **Design Guidelines**
 
-  * Detailed rules for colors, typography, layout, and spatial design.
+  * Detailed rules for colors, typography, spacing (layout & whitespace), and imagery.
 * **Design Examples**
 
   * Sample web pages, components, and templates demonstrating Wabi-sabi principles.
@@ -27,8 +27,9 @@ Koke Design is an open-source project dedicated to integrating the traditional J
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/[your-username]/koke-design.git
+   git clone https://github.com/koke-design/koke-design.git
    ```
+   > 💡 If you have forked this repository, replace `koke-design` with your own username.
 2. Utilize the provided design guidelines and examples in your own projects.
 3. If you have suggestions or improvements, please open an Issue to participate.
 
