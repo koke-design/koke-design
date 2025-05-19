@@ -2,54 +2,85 @@
 
 ## Project Overview
 
-Koke Design is an open-source project dedicated to integrating the traditional Japanese aesthetic known as "Wabi-sabi" into web design. Our aim is to compile concrete design principles and examples that enable designers and developers around the world to express Japanese beauty online.
+Koke Design is an open-source project dedicated to integrating the traditional Japanese aesthetic known as **Wabi-sabi** into web design. Our aim is to compile concrete design principles and examples, enabling designers and developers worldwide to express authentic Japanese beauty online.
+
+## Table of Contents
+
+* [Objectives](#objectives)
+* [Contents](#contents)
+* [Getting Started](#getting-started)
+* [How to Contribute](#how-to-contribute)
+* [License](#license)
+* [Maintainers](#maintainers)
+* [Contact](#contact)
 
 ## Objectives
 
-* To promote Japanese Wabi-sabi aesthetics within the web design community.
-* To systematically articulate Wabi-sabi principles into practical design guidelines.
-* To offer globally accessible design resources inspired by Japanese aesthetics.
+* Promote Japanese Wabi-sabi aesthetics within the global web design community.
+* Systematically articulate Wabi-sabi principles into practical design guidelines.
+* Offer globally accessible design resources inspired by traditional Japanese aesthetics.
 
 ## Contents
 
-* **Design Guidelines**
+### Design Guidelines
 
-  * Detailed rules for colors, typography, spacing (layout & whitespace), and imagery.
-* **Design Examples**
+* Clear and detailed rules for colors, typography, layout, and spatial design.
 
-  * Sample web pages, components, and templates demonstrating Wabi-sabi principles.
-* **Additional Resources**
+### Design Examples
 
-  * Useful references and external links for further exploration of Wabi-sabi design.
+* Sample web pages, components, and templates demonstrating Wabi-sabi principles.
+
+### Additional Resources
+
+* Useful references and external links for further exploration of Wabi-sabi-inspired design.
 
 ## Getting Started
 
-1. Clone this repository:
+Follow these steps to begin using Koke Design resources:
 
-   ```bash
-   git clone https://github.com/koke-design/koke-design.git
-   ```
-   > 💡 If you have forked this repository, replace `koke-design` with your own username.
-2. Utilize the provided design guidelines and examples in your own projects.
-3. If you have suggestions or improvements, please open an Issue to participate.
+1\. Clone this repository:
+
+```bash
+git clone https://github.com/koke-design/koke-design.git
+```
+
+2\. Navigate to the project directory:
+
+```bash
+cd koke-design
+```
+
+3\. Explore the resources:
+
+```
+├── guidelines/  (Design guideline documents)
+├── examples/    (Sample templates and components)
+├── resources/   (External links and additional references)
+```
+
+You are free to use these resources in your own projects.
 
 ## How to Contribute
 
-This project welcomes contributions and is open-source.
+Contributions are warmly welcomed! Here’s how you can get involved:
 
-Ways to contribute:
+* **Report issues:** Found errors or bugs? Please [open an Issue](https://github.com/koke-design/koke-design/issues).
+* **Suggest improvements:** Submit a Pull Request to propose enhancements. Clearly describe your changes.
+* **Share examples:** Contribute your own Wabi-sabi inspired designs and templates.
 
-* Report typos, mistakes, or bugs.
-* Propose improvements to the guidelines.
-* Share your own design examples that embody Wabi-sabi.
-
-Feel free to create an Issue or submit a Pull Request.
+We value every contribution to our growing community!
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
-## Maintainer
+## Maintainers
 
-* Takeshi Kanno
-* [koke.design](https://koke.design) (Coming soon)
+* **Takeshi Kanno (@koke-design)**
+* **KomaSunny (@KomaSunny)**
+* **Lu-Akaiwa (@Lu-Akaiwa)**
+* **Naftali (那富多利) (@Naftali-K)**
+
+## Contact
+
+For questions or feedback, please [open an Issue](https://github.com/koke-design/koke-design/issues).
