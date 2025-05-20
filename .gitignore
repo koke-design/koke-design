@@ -1,2 +1,13 @@
-# Ignore macOS system file
+############################
+# macOS Finder metadata
+############################
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS thumbnail & resource forks
+._*
+
+# macOS Spotlight index & Trash
+.Spotlight-V100
+.Trashes
