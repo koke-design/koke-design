@@ -1,6 +1,11 @@
 # Koke Design (Wabi-sabi Web Design Guidelines)
 # Kokeデザイン（侘び寂びウェブデザインガイドライン）
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![GitHub Stars](https://img.shields.io/github/stars/koke-design/koke-design)
+![GitHub Forks](https://img.shields.io/github/forks/koke-design/koke-design)
+
 ---
 
 ## Project Overview / プロジェクト概要
